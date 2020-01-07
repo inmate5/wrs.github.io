@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-04_1947",
-    "currentPage": "index.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -86,7 +86,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "font-size": "36px"
+              "font-size": "24px"
             }
           },
           "_params": {
@@ -107,6 +107,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "25px"
             }
           },
           "_params": {
@@ -189,12 +192,12 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "showBullets": true,
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "timeout": "5",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/man-back.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -208,7 +211,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/bridge.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -363,7 +366,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<blockquote><p>Urodziła się 18 stycznia 1950 r. w Grabowie w gminie Bobowo. Jest polską lekkoatletką, specjalistką biegów długodystansowych<br>&nbsp;i wielokrotną mistrzyni Polski.&nbsp;</p><p><br></p><p>Zajęła 10. miejsce w biegu na 3000 metrów na mistrzostwach Europy w 1974 w Rzymie.</p><p><br></p><p>Zdobyła brązowy medal drużynowo podczas mistrzostw świata w biegach przełajowych w 1975 w Rabacie, a indywidualnie zajęła 13. miejsce. Na mistrzostwach świata w biegach przełajowych w 1977 w Düsseldorfie była indywidualnie 27., a w drużynie 4., a na mistrzostwach świata w biegach przełajowych w 1978 w Glasgow indywidualnie – 29., a drużynowo – 5.</p><p><br></p><p>Od 1979 startowała w maratonach. Zwyciężyła w Maratonie Warszawskim w 1979 i 1987.</p><p><br></p><p>Była mistrzynią Polski w biegu na 3000 metrów w 1976 oraz w maratonie w 1983, 1985 i 1986, wicemistrzynią w biegu na 1500 metrów w 1974, w biegu na 3000 metrów w 1975, w biegu przełajowym w 1974, 1975 i 1976, w maratonie w 1982 oraz w biegu na 20 kilometrów w 1987, a także brązową medalistką w biegu na 1500 metrów w 1975, w biegu na 3000 metrów w 1973, 1974, 1977 i 1979 i w biegu przełajowym w 1973. Zdobyła również brązowy medal w biegu na 1500 metrów w halowych mistrzostwach Polski w 1976.</p><p><br></p><p>Ustanawiała rekordy Polski w biegu na 3000 metrów (9:13,8 30 czerwca 1974 w Warszawie) i trzykrotnie w maratonie (do 2:32:30 6 kwietnia 1986 w Dębnie)</p><p><br></p><p>Była zawodniczką Neptuna Gdańsk i Bałtyku Gdynia.</p></blockquote>",
+          "text": "<blockquote><p>Urodziła się 18 stycznia 1950 r. w Grabowie w gminie Bobowo. Jest polską lekkoatletką, specjalistką biegów długodystansowych<br>&nbsp;i wielokrotną mistrzyni Polski.&nbsp;</p><p><br></p><p>Pierwszy brązowy medal drużynowo zdobyła brązowy medal podczas mistrzostw świata w biegach przełajowych w 1975 w Rabacie.&nbsp;</p><p><br></p><p>Była mistrzynią Polski w biegu na 3000 metrów w 1976 oraz w maratonie w 1983, 1985 i 1986</p><p><br></p><p>Ustanawiała rekordy Polski w biegu na 3000 metrów (9:13,8 30 czerwca 1974 w Warszawie) i trzykrotnie w maratonie (do 2:32:30 6 kwietnia 1986 w Dębnie)</p><p><br></p><p>Była zawodniczką Neptuna Gdańsk i Bałtyku Gdynia.</p></blockquote>",
           "_tags": [
             "Motywy"
           ],
@@ -640,8 +643,8 @@
             }
           },
           "text1": "Adres<br><br><br>",
-          "text2": "Kontakt<br><br>\nEmail: wiserunnigsystem@gmail.com<br>Telefon: ...&nbsp;<br><br>",
-          "text3": "Linki<br><br><a href=\"https://www.facebook.com/WiseRunning-113387190100920/\">facebook</a>: &nbsp;<br>instagram:&nbsp;<a href=\"http://www.instagram.com/wiserunningsystem\">www.instagram.com/wiserunningsystem</a><br><br>",
+          "text2": "Kontakt<br><br>\nEmail: wiserunnigsystem@gmail.com<br>Telefon: 509976026<br><br>",
+          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\">www.instagram.com/wiserunningsystem</a><br><br>",
           "_tags": [
             "Motywy"
           ],
@@ -888,8 +891,8 @@
             }
           },
           "text1": "Adres<br><br><br>",
-          "text2": "Kontakt<br><br>\nEmail: wiserunnigsystem@gmail.com<br>Telefon: ...&nbsp;<br><br>",
-          "text3": "Linki<br><br><a href=\"https://www.facebook.com/WiseRunning-113387190100920/\">facebook</a>: &nbsp;<br>instagram:&nbsp;<a href=\"http://www.instagram.com/wiserunningsystem\">www.instagram.com/wiserunningsystem</a><br><br>",
+          "text2": "Kontakt<br><br>\nEmail: wiserunnigsystem@gmail.com<br>Telefon: 509976026<br><br>",
+          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\">www.instagram.com/wiserunningsystem</a><br><br>",
           "_tags": [
             "Motywy"
           ],
@@ -1151,8 +1154,8 @@
             }
           },
           "text1": "Adres<br><br><br>",
-          "text2": "Kontakt<br><br>\nEmail: wiserunnigsystem@gmail.com<br>Telefon: ...&nbsp;<br><br>",
-          "text3": "Linki<br><br><a href=\"https://www.facebook.com/WiseRunning-113387190100920/\">facebook</a>: &nbsp;<br>instagram:&nbsp;<a href=\"http://www.instagram.com/wiserunningsystem\">www.instagram.com/wiserunningsystem</a><br><br>",
+          "text2": "Kontakt<br><br>\nEmail: wiserunnigsystem@gmail.com<br>Telefon: 509976026<br><br>",
+          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\">www.instagram.com/wiserunningsystem</a><br><br>",
           "_tags": [
             "Motywy"
           ],
@@ -1438,58 +1441,6 @@
           "_anchor": "msg-box5-1z"
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "35",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fotolia-106667964-m-1190x781.jpeg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Trenera Osobitego",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-20"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -1580,7 +1531,7 @@
               "active": true
             }
           },
-          "title1": "Szymon Owardjak",
+          "title1": "Szymon Gwardjak",
           "subtitle1": "email<br>telefon",
           "caption1": "Ogólne informacje o sobie",
           "title2": "Damian Sławiński",
@@ -1636,8 +1587,8 @@
             }
           },
           "text1": "Adres<br><br><br>",
-          "text2": "Kontakt<br><br>\nEmail: wiserunnigsystem@gmail.com<br>Telefon: ...&nbsp;<br><br>",
-          "text3": "Linki<br><br><a href=\"https://www.facebook.com/WiseRunning-113387190100920/\">facebook</a>: &nbsp;<br>instagram:&nbsp;<a href=\"http://www.instagram.com/wiserunningsystem\">www.instagram.com/wiserunningsystem</a><br><br>",
+          "text2": "Kontakt<br><br>\nEmail: wiserunnigsystem@gmail.com<br>Telefon: 509976026<br><br>",
+          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\">www.instagram.com/wiserunningsystem</a><br><br>",
           "_tags": [
             "Motywy"
           ],
@@ -1813,8 +1764,8 @@
             }
           },
           "text1": "Adres<br><br><br>",
-          "text2": "Kontakt<br><br>\nEmail: wiserunnigsystem@gmail.com<br>Telefon: ...&nbsp;<br><br>",
-          "text3": "Linki<br><br><a href=\"https://www.facebook.com/WiseRunning-113387190100920/\">facebook</a>: &nbsp;<br>instagram:&nbsp;<a href=\"http://www.instagram.com/wiserunningsystem\">www.instagram.com/wiserunningsystem</a><br><br>",
+          "text2": "Kontakt<br><br>\nEmail: wiserunnigsystem@gmail.com<br>Telefon: 509976026<br><br>",
+          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\">www.instagram.com/wiserunningsystem</a><br><br>",
           "_tags": [
             "Motywy"
           ],
