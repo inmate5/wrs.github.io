@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-04_1947",
-    "currentPage": "page9.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -9,9 +9,9 @@
         "primaryColor": "#c0a375",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
-        "infoColor": "#2b0680",
+        "infoColor": "#1b6dc9",
         "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
+        "dangerColor": "#b22bbb",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
@@ -21,19 +21,19 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#565656",
-        "#bd7c1d",
-        "#995f09",
-        "#110946",
-        "#f2f2f2",
-        "#710e01",
-        "#232323"
+        "#b22bbb",
+        "#f318e0",
+        "#0558b5",
+        "#bc8f00",
+        "#232323",
+        "#1b6dc9",
+        "#565656"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.15",
     "siteFonts": [],
-    "uniqCompNum": 100,
+    "uniqCompNum": 103,
     "versionPublish": "4.10.15",
     "screenshot": "screenshot.png",
     "cookiesAlert": {
@@ -83,7 +83,7 @@
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/desert.jpeg",
@@ -122,13 +122,33 @@
             "paddingBottom": "2",
             "bgColor": "#fac51c"
           },
-          "title": "WRS jest firmą, oferująca plany treningowe do biegania i triatlonu.",
+          "title": "WRS to firma oferująca plany treningowe do biegania i triathlonu.",
           "meta": "",
           "_tags": [
             "Motywy"
           ],
           "_name": "header3",
           "_anchor": "header3-27"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#efefef"
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2t"
         },
         {
           "_styles": {
@@ -143,7 +163,7 @@
             "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#fac51c"
           },
           "title": "Dlaczego warto wybrać naszą firmę?",
           "meta": "By John Smith posted July 20, 2016",
@@ -159,7 +179,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>- Nasze treningi tworzymy inspirując się wiedzą przekazywaną poprzez wieloletnią współpracę z rekordzistką Polski i multimedalistką mistrzostw polski w biegach średnich i długich Renatą Walendziak</p><p>- Rozpisujemy plany reningowe na dystansie od 1000 m do ultramaratonu.</p>",
+          "text": "<p><b>-</b> <b>Nasze treningi tworzymy inspirując się wiedzą przekazywaną poprzez wieloletnią współpracę z rekordzistką Polski i multimedalistką mistrzostw polski w biegach średnich i długich Renatą Walendziak,</b></p><p><b>- Rozpisujemy plany trieningowe do triathlonu oraz biegania na dystansie od 1000 m do ultramaratonu,</b></p><p><b>- Dzięki współpracy z ... zapewniamy zniżki na wybrane oferty.</b></p>",
           "_tags": [
             "Motywy"
           ],
@@ -187,7 +207,7 @@
             "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#fac51c"
           },
           "title": "Dołącz do nas już dziś:",
           "meta": "",
@@ -216,7 +236,7 @@
             "bgColor": "#efefef"
           },
           "title": "Pierwsze 10 osób, które sie zapiszą na nasze treningi otrzymają:<br> naszą firmową bluzę lub 1 miesiąc gratis*<br><br>",
-          "meta": "*conajmniej 5 miesięcy trzeba mieć wykupione",
+          "meta": "*conajmniej 3 miesięce trzeba mieć wykupione",
           "_tags": [
             "Motywy"
           ],
@@ -230,7 +250,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "showBullets": true,
-            "bgColor": "#efefef",
+            "bgColor": "#232323",
             "timeout": "5",
             "slides": [
               {
@@ -286,55 +306,6 @@
           "_anchor": "slider-2k"
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Renata Walendziak<br>",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-3"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -344,9 +315,9 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#fac51c"
           },
-          "title": "Krótki życiorys",
+          "title": "Kim jest Renata Walendziak?",
           "meta": "",
           "_tags": [
             "Motywy"
@@ -360,12 +331,17 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<blockquote><p>Urodziła się 18 stycznia 1950 r. w Grabowie w gminie Bobowo. Jest polską lekkoatletką, specjalistką biegów długodystansowych<br>&nbsp;i wielokrotną mistrzyni Polski.&nbsp;</p><p><br></p><p>Pierwszy brązowy medal drużynowo zdobyła brązowy medal podczas mistrzostw świata w biegach przełajowych w 1975 w Rabacie.&nbsp;</p><p><br></p><p>Była mistrzynią Polski w biegu na 3000 metrów w 1976 oraz w maratonie w 1983, 1985 i 1986</p><p><br></p><p>Ustanawiała rekordy Polski w biegu na 3000 metrów (9:13,8 30 czerwca 1974 w Warszawie) i trzykrotnie w maratonie (do 2:32:30 6 kwietnia 1986 w Dębnie)</p><p><br></p><p>Była zawodniczką Neptuna Gdańsk i Bałtyku Gdynia.</p></blockquote>",
+          "text": "<blockquote><p><b>&nbsp;Jest polską lekkoatletką, specjalistką biegów długodystansowych&nbsp;i wielokrotną mistrzyni Polski.&nbsp;</b></p><p><b><br></b></p><p><b>Pierwszy brązowy medal drużynowo zdobyła brązowy medal podczas mistrzostw świata w biegach przełajowych w 1975 w Rabacie.&nbsp;</b></p><p><b><br></b></p><p><b>Była mistrzynią Polski w biegu na 3000 metrów w 1976 oraz w maratonie w 1983, 1985 i 1986</b></p><p><b><br></b></p><p><b>Ustanawiała rekordy Polski w biegu na 3000 metrów (9:13,8 30 czerwca 1974 w Warszawie) i trzykrotnie w maratonie (do 2:32:30 6 kwietnia 1986 w Dębnie).</b></p><p><b><br></b></p><p><b>Jednym ze znancyh sportowców, którzy trenowali z Panią Renatą jest Andrzej Magier.</b></p><p><b><br></b></p><p><b>Jej wychowankami są medaliści mistrzostw Polski w różnych kategoriach wiekowych.</b></p></blockquote>",
           "_tags": [
             "Motywy"
           ],
           "_name": "content2",
-          "_anchor": "content2-a"
+          "_anchor": "content2-a",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_styles": {
@@ -377,9 +353,9 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef"
+            "bgColor": "#fac51c"
           },
-          "title": "Najważniejsze medale i osiągnięcia",
+          "title": "Jej największe osiągnięcia",
           "meta": "",
           "_tags": [
             "Motywy"
@@ -636,8 +612,8 @@
             }
           },
           "text1": "<br><br><br>",
-          "text2": "Kontakt<br><br>\nEmail: wiserunnigsystem@gmail.com<br>Telefon: 798292688<br><br>",
-          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\">www.instagram.com/wiserunningsystem</a><br><br>",
+          "text2": "Kontakt<br><br>\nEmail: <a href=\"mailto:wiserunnigsystem@gmail.com\" class=\"text-info\">wiserunnigsystem@gmail.com</a><br>Telefon:<a href=\"tel:798292688\" class=\"text-info\">&nbsp;+48 798292688</a><br><br>",
+          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\" class=\"text-info\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\" class=\"text-info\">www.instagram.com/wiserunningsystem</a><br><br>",
           "_tags": [
             "Motywy"
           ],
@@ -813,7 +789,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#fac51c",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -885,8 +861,8 @@
             }
           },
           "text1": "<br><br><br>",
-          "text2": "Kontakt<br><br>\nEmail: wiserunnigsystem@gmail.com<br>Telefon: 798292688<br><br>",
-          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\">www.instagram.com/wiserunningsystem</a><br><br>",
+          "text2": "Kontakt<br><br>\nEmail: <a href=\"mailto:wiserunnigsystem@gmail.com\" class=\"text-info\">wiserunnigsystem@gmail.com</a><br>Telefon:<a href=\"tel:798292688\" class=\"text-info\">&nbsp;+48 798292688</a><br><br>",
+          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\" class=\"text-info\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\" class=\"text-info\">www.instagram.com/wiserunningsystem</a><br><br>",
           "_tags": [
             "Motywy"
           ],
@@ -1149,8 +1125,8 @@
             }
           },
           "text1": "<br><br><br>",
-          "text2": "Kontakt<br><br>\nEmail: wiserunnigsystem@gmail.com<br>Telefon: 798292688<br><br>",
-          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\">www.instagram.com/wiserunningsystem</a><br><br>",
+          "text2": "Kontakt<br><br>\nEmail: <a href=\"mailto:wiserunnigsystem@gmail.com\" class=\"text-info\">wiserunnigsystem@gmail.com</a><br>Telefon:<a href=\"tel:798292688\" class=\"text-info\">&nbsp;+48 798292688</a><br><br>",
+          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\" class=\"text-info\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\" class=\"text-info\">www.instagram.com/wiserunningsystem</a><br><br>",
           "_tags": [
             "Motywy"
           ],
@@ -1347,7 +1323,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": 50,
+            "imageSize": "30",
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -1381,7 +1357,7 @@
               "size": 0
             }
           },
-          "title": "Treningi Online",
+          "title": "Przygotowanie treningów indywidualnych",
           "text": "Wybór sposobu kontaktu z Naszymi trenerami jest dowolny i zaleźny tylko i wyłącznie od klientow.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1391,10 +1367,11 @@
           "_anchor": "msg-box5-1y",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "left",
+              "font-size": "20px"
             },
             "H3": {
-              "text-align": "center"
+              "text-align": "left"
             }
           }
         },
@@ -1404,7 +1381,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": 50,
+            "imageSize": "36",
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -1448,7 +1425,13 @@
             "Motywy"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-1z"
+          "_anchor": "msg-box5-1z",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_params": {
@@ -1456,7 +1439,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": 50,
+            "imageSize": "30",
             "paddingTop": 0,
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -1500,7 +1483,11 @@
           "_anchor": "msg-box5-2o",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "left",
+              "font-size": "20px"
+            },
+            "H3": {
+              "text-align": "left"
             }
           }
         },
@@ -1531,7 +1518,7 @@
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": false,
+            "showSubtitles": true,
             "ShowTexts": false,
             "showButtons": false,
             "paddingTop": 2,
@@ -1608,13 +1595,13 @@
             }
           },
           "title1": "Szymon Gwardjak",
-          "subtitle1": "email<br>telefon",
+          "subtitle1": "Triathlon",
           "caption1": "Ogólne informacje o sobie",
           "title2": "Damian Sławiński",
-          "subtitle2": "email\r<div>telefon</div>",
+          "subtitle2": "Biegi srednie i dlugie",
           "caption2": "Ogólne informacje o sobie",
           "title3": "Jarosław Ziółkowski",
-          "subtitle3": "email\n<div>telefon</div>",
+          "subtitle3": "Biegi ultra i zajecia z dziecmi<br>",
           "caption3": "Ogólne informacje o sobie",
           "title4": "Imię Nazwisko",
           "subtitle4": "email\r<div>telefon</div>",
@@ -1639,6 +1626,10 @@
           "_styles": {
             "H4": {
               "color": "#cccccc"
+            },
+            "H5": {
+              "color": "#c1c1c1",
+              "font-size": "19px"
             }
           }
         },
@@ -1653,7 +1644,7 @@
             ".mbr-section-title": {
               "text-align": "left",
               "font-size": "46px",
-              "color": "#faaf40"
+              "color": "#cccccc"
             }
           },
           "_params": {
@@ -1662,7 +1653,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "title": "Zakladamy trójmiejska grupe sportowa. Wiecej informacji na naszym facebooku i instagramie.",
+          "title": "Zakładamy trójmiejską grupę sportową. Wiecej informacji na naszym <a href=\"http://www.facebook.com/WiseRunning-113387190100920\" target=\"_blank\" class=\"text-info\">facebooku</a> i <a href=\"http://www.instagram.com/wiserunningsystem\" target=\"_blank\" class=\"text-danger\">instagramie</a>!<br>",
           "meta": "",
           "_tags": [
             "Motywy"
@@ -1685,7 +1676,7 @@
             "paddingBottom": 1,
             "bgColor": "#fac51c"
           },
-          "title": "Dzieci do 14 lat maja 50% zniżki na nasze treningi&nbsp;",
+          "title": "Dzieci do 14 lat maja 50% zniżki na nasze treningi!",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Motywy"
@@ -1719,8 +1710,8 @@
             }
           },
           "text1": "<br><br><br>",
-          "text2": "Kontakt<br><br>\nEmail: wiserunnigsystem@gmail.com<br>Telefon: 798292688<br><br>",
-          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\">www.instagram.com/wiserunningsystem</a><br><br>",
+          "text2": "Kontakt<br><br>\nEmail: <a href=\"mailto:wiserunnigsystem@gmail.com\" class=\"text-info\">wiserunnigsystem@gmail.com</a><br>Telefon:<a href=\"tel:798292688\" class=\"text-info\">&nbsp;+48 798292688</a><br><br>",
+          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\" class=\"text-info\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\" class=\"text-info\">www.instagram.com/wiserunningsystem</a><br><br>",
           "_tags": [
             "Motywy"
           ],
@@ -1858,10 +1849,30 @@
             }
           },
           "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#232323"
+          },
+          "title": "Title with Solid Background Color",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2s"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
             "showMeta": true,
             "paddingTop": "7",
             "paddingBottom": "7",
-            "bgColor": "#fac51c"
+            "bgColor": "#1b6dc9"
           },
           "title": "PRACE NAD TĄ CZĘŚCIĄ STRONY TRWAJĄ",
           "meta": "",
@@ -1897,8 +1908,8 @@
             }
           },
           "text1": "<br><br><br>",
-          "text2": "Kontakt<br><br>\nEmail: wiserunnigsystem@gmail.com<br>Telefon: 798292688<br><br>",
-          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\">www.instagram.com/wiserunningsystem</a><br><br>",
+          "text2": "Kontakt<br><br>\nEmail: <a href=\"mailto:wiserunnigsystem@gmail.com\" class=\"text-info\">wiserunnigsystem@gmail.com</a><br>Telefon:<a href=\"tel:798292688\" class=\"text-info\">&nbsp;+48 798292688</a><br><br>",
+          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\" class=\"text-info\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\" class=\"text-info\">www.instagram.com/wiserunningsystem</a><br><br>",
           "_tags": [
             "Motywy"
           ],
