@@ -468,6 +468,10 @@ section.form .container {
 #header3-27 .mbr-section-title {
   font-size: 36px;
 }
+#header3-2t .mbr-section-title,
+#header3-2t .mbr-section-subtitle {
+  text-align: center;
+}
 #header3-2l .mbr-section-title,
 #header3-2l .mbr-section-subtitle {
   text-align: center;
@@ -501,6 +505,9 @@ section.form .container {
 #header3-9 .mbr-section-title,
 #header3-9 .mbr-section-subtitle {
   text-align: center;
+}
+#content2-a P {
+  font-size: 20px;
 }
 #header3-c .mbr-section-title,
 #header3-c .mbr-section-subtitle {
@@ -810,13 +817,22 @@ section.form .container {
   font-size: 48px;
 }
 #msg-box5-1y P {
-  text-align: center;
+  text-align: left;
+  font-size: 20px;
 }
 #msg-box5-1y H3 {
-  text-align: center;
+  text-align: left;
+}
+#msg-box5-1z P {
+  text-align: left;
+  font-size: 20px;
 }
 #msg-box5-2o P {
-  text-align: center;
+  text-align: left;
+  font-size: 20px;
+}
+#msg-box5-2o H3 {
+  text-align: left;
 }
 #header3-1w .mbr-section-title,
 #header3-1w .mbr-section-subtitle {
@@ -828,6 +844,10 @@ section.form .container {
 #features3-1u H4 {
   color: #cccccc;
 }
+#features3-1u H5 {
+  color: #c1c1c1;
+  font-size: 19px;
+}
 #header3-2q .mbr-section-title,
 #header3-2q .mbr-section-subtitle {
   text-align: center;
@@ -838,7 +858,7 @@ section.form .container {
 #header3-2q .mbr-section-title {
   text-align: left;
   font-size: 46px;
-  color: #faaf40;
+  color: #cccccc;
 }
 #header3-2r .mbr-section-title,
 #header3-2r .mbr-section-subtitle {
@@ -914,6 +934,10 @@ section.form .container {
 }
 #menu-2g A {
   font-size: 12px;
+}
+#header3-2s .mbr-section-title,
+#header3-2s .mbr-section-subtitle {
+  text-align: center;
 }
 #header3-2j .mbr-section-title,
 #header3-2j .mbr-section-subtitle {
