@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-04_1947",
-    "currentPage": "index.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -9,9 +9,9 @@
         "primaryColor": "#c0a375",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
-        "infoColor": "#1b6dc9",
+        "infoColor": "#2b0680",
         "warningColor": "#f3c649",
-        "dangerColor": "#b22bbb",
+        "dangerColor": "#f28281",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
@@ -21,19 +21,19 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#b22bbb",
-        "#f318e0",
-        "#0558b5",
-        "#bc8f00",
-        "#232323",
-        "#1b6dc9",
-        "#565656"
+        "#565656",
+        "#bd7c1d",
+        "#995f09",
+        "#110946",
+        "#f2f2f2",
+        "#710e01",
+        "#232323"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.15",
     "siteFonts": [],
-    "uniqCompNum": 103,
+    "uniqCompNum": 96,
     "versionPublish": "4.10.15",
     "screenshot": "screenshot.png",
     "cookiesAlert": {
@@ -122,7 +122,7 @@
             "paddingBottom": "2",
             "bgColor": "#fac51c"
           },
-          "title": "WRS to firma oferująca plany treningowe do biegania i triathlonu.",
+          "title": "WRS to firma oferująca plany treningowe dla biegaczy i triathlonistów.",
           "meta": "",
           "_tags": [
             "Motywy"
@@ -612,8 +612,8 @@
             }
           },
           "text1": "<br><br><br>",
-          "text2": "Kontakt<br><br>\nEmail: <a href=\"mailto:wiserunnigsystem@gmail.com\" class=\"text-info\">wiserunnigsystem@gmail.com</a><br>Telefon:<a href=\"tel:798292688\" class=\"text-info\">&nbsp;+48 798292688</a><br><br>",
-          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\" class=\"text-info\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\" class=\"text-info\">www.instagram.com/wiserunningsystem</a><br><br>",
+          "text2": "Kontakt<br><br>\nEmail: <a href=\"mailto:wiserunnigsystem@gmail.com\" class=\"text-warning\">wiserunnigsystem@gmail.com</a><br>Telefon:<a href=\"tel:798292688\" class=\"text-warning\">&nbsp;+48 798292688</a><br><br>",
+          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\" class=\"text-warning\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\" class=\"text-warning\">www.instagram.com/wiserunningsystem</a><br><br>",
           "_tags": [
             "Motywy"
           ],
@@ -861,8 +861,8 @@
             }
           },
           "text1": "<br><br><br>",
-          "text2": "Kontakt<br><br>\nEmail: <a href=\"mailto:wiserunnigsystem@gmail.com\" class=\"text-info\">wiserunnigsystem@gmail.com</a><br>Telefon:<a href=\"tel:798292688\" class=\"text-info\">&nbsp;+48 798292688</a><br><br>",
-          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\" class=\"text-info\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\" class=\"text-info\">www.instagram.com/wiserunningsystem</a><br><br>",
+          "text2": "Kontakt<br><br>\nEmail: <a href=\"mailto:wiserunnigsystem@gmail.com\" class=\"text-warning\">wiserunnigsystem@gmail.com</a><br>Telefon:<a href=\"tel:798292688\" class=\"text-warning\">&nbsp;+48 798292688</a><br><br>",
+          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\" class=\"text-warning\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\" class=\"text-warning\">www.instagram.com/wiserunningsystem</a><br><br>",
           "_tags": [
             "Motywy"
           ],
@@ -1125,8 +1125,8 @@
             }
           },
           "text1": "<br><br><br>",
-          "text2": "Kontakt<br><br>\nEmail: <a href=\"mailto:wiserunnigsystem@gmail.com\" class=\"text-info\">wiserunnigsystem@gmail.com</a><br>Telefon:<a href=\"tel:798292688\" class=\"text-info\">&nbsp;+48 798292688</a><br><br>",
-          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\" class=\"text-info\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\" class=\"text-info\">www.instagram.com/wiserunningsystem</a><br><br>",
+          "text2": "Kontakt<br><br>\nEmail: <a href=\"mailto:wiserunnigsystem@gmail.com\" class=\"text-warning\">wiserunnigsystem@gmail.com</a><br>Telefon:<a href=\"tel:798292688\" class=\"text-warning\">&nbsp;+48 798292688</a><br><br>",
+          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\" class=\"text-warning\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\" class=\"text-warning\">www.instagram.com/wiserunningsystem</a><br><br>",
           "_tags": [
             "Motywy"
           ],
@@ -1324,7 +1324,7 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": "30",
-            "paddingTop": 0,
+            "paddingTop": "1",
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1358,7 +1358,7 @@
             }
           },
           "title": "Przygotowanie treningów indywidualnych",
-          "text": "Wybór sposobu kontaktu z Naszymi trenerami jest dowolny i zaleźny tylko i wyłącznie od klientow.",
+          "text": "Wybór sposobu kontaktu z Naszymi trenerami jest dowolny i zaleźny tylko i wyłącznie od klientow. Dostosowujemy harmonogram startu do indywidualnych potrzeb klientów.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Motywy"
@@ -1419,7 +1419,7 @@
             }
           },
           "title": "Porady dietetyczne",
-          "text": "Nasi trenerzy mają doświadczenie nie tylko w treningach wytrzymałościowych ale równieź w odźywianiu. <br>Współpracujemy równieź z firmami oferującymi diety i porady dietetyczne odpowiednio dopasowane do potrzeb naszych klientów.",
+          "text": "Nasi trenerzy mają doświadczenie nie tylko w treningach wytrzymałościowych, ale równieź w zakresie odżywiania. <br>Współpracujemy równieź z firmami oferującymi diety i porady dietetyczne odpowiednio dopasowane do potrzeb naszych klientów.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Motywy"
@@ -1473,8 +1473,8 @@
               "size": 0
             }
           },
-          "title": "Wyjazdy treningowe",
-          "text": "Organizacja wyjzdów w Polsce i za granica.",
+          "title": "Zgrupowania sportowe",
+          "text": "Organizujemy wyjzdy na terenie Polsce i za granicą.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Motywy"
@@ -1601,7 +1601,7 @@
           "subtitle2": "Biegi srednie i dlugie",
           "caption2": "Ogólne informacje o sobie",
           "title3": "Jarosław Ziółkowski",
-          "subtitle3": "Biegi ultra i zajecia z dziecmi<br>",
+          "subtitle3": "Biegi ultra i zajecia z dziećmi<br>",
           "caption3": "Ogólne informacje o sobie",
           "title4": "Imię Nazwisko",
           "subtitle4": "email\r<div>telefon</div>",
@@ -1676,7 +1676,7 @@
             "paddingBottom": 1,
             "bgColor": "#fac51c"
           },
-          "title": "Dzieci do 14 lat maja 50% zniżki na nasze treningi!",
+          "title": "Dzieci do dwunastego roku życia maja 50% zniżki na nasze treningi!<br>Prowadzimy zajęcia z dziećmi do 12 lat",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Motywy"
@@ -1710,8 +1710,8 @@
             }
           },
           "text1": "<br><br><br>",
-          "text2": "Kontakt<br><br>\nEmail: <a href=\"mailto:wiserunnigsystem@gmail.com\" class=\"text-info\">wiserunnigsystem@gmail.com</a><br>Telefon:<a href=\"tel:798292688\" class=\"text-info\">&nbsp;+48 798292688</a><br><br>",
-          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\" class=\"text-info\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\" class=\"text-info\">www.instagram.com/wiserunningsystem</a><br><br>",
+          "text2": "Kontakt<br><br>\nEmail: <a href=\"mailto:wiserunnigsystem@gmail.com\" class=\"text-warning\">wiserunnigsystem@gmail.com</a><br>Telefon:<a href=\"tel:798292688\" class=\"text-warning\">&nbsp;+48 798292688</a><br><br>",
+          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\" class=\"text-warning\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\" class=\"text-warning\">www.instagram.com/wiserunningsystem</a><br><br>",
           "_tags": [
             "Motywy"
           ],
@@ -1908,8 +1908,8 @@
             }
           },
           "text1": "<br><br><br>",
-          "text2": "Kontakt<br><br>\nEmail: <a href=\"mailto:wiserunnigsystem@gmail.com\" class=\"text-info\">wiserunnigsystem@gmail.com</a><br>Telefon:<a href=\"tel:798292688\" class=\"text-info\">&nbsp;+48 798292688</a><br><br>",
-          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\" class=\"text-info\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\" class=\"text-info\">www.instagram.com/wiserunningsystem</a><br><br>",
+          "text2": "Kontakt<br><br>\nEmail: <a href=\"mailto:wiserunnigsystem@gmail.com\" class=\"text-warning\">wiserunnigsystem@gmail.com</a><br>Telefon:<a href=\"tel:798292688\" class=\"text-warning\">&nbsp;+48 798292688</a><br><br>",
+          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\" class=\"text-warning\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\" class=\"text-warning\">www.instagram.com/wiserunningsystem</a><br><br>",
           "_tags": [
             "Motywy"
           ],
