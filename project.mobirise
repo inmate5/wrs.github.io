@@ -21,8 +21,6 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#565656",
-        "#bd7c1d",
         "#995f09",
         "#110946",
         "#f2f2f2",
@@ -33,31 +31,9 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.15",
     "siteFonts": [],
-    "uniqCompNum": 96,
+    "uniqCompNum": 93,
     "versionPublish": "4.10.15",
-    "screenshot": "screenshot.png",
-    "cookiesAlert": {
-      "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
-      "colorButton": "#ffffff",
-      "colorLink": "#424a4d",
-      "underlineLink": true,
-      "opacity": "99",
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
-    },
-    "gdpr": {
-      "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
-      "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
-    },
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "",
-    "siteUrl": "",
-    "sitemapSwitcherAuto": "on",
-    "favicon": "",
-    "noImageResize": "",
-    "google-analytics": ""
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -74,22 +50,19 @@
           "_styles": {
             ".mbr-section-title, .lead": {
               "color": "#fff"
-            },
-            ".lead P": {
-              "font-size": "32px"
             }
           },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/desert.jpeg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#232323",
+            "bgColor": "#110946",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -99,7 +72,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Wise Running<br>System",
-          "text": "<p><b>Change your life! Be active!</b></p>",
+          "text": "<p>Change your life! Be active!</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Motywy"
@@ -117,12 +90,12 @@
             }
           },
           "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#fac51c"
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
           },
-          "title": "WRS to firma oferująca plany treningowe dla biegaczy i triathlonistów",
+          "title": "WRS jest firmą, która przekazuje informacje zdobyte na treningach z &nbsp;multimedalistką mistrzostw polski w biegach długich oraz rekordzistką polski w maratonie <br>Renatą Walendziak",
           "meta": "",
           "_tags": [
             "Motywy"
@@ -138,110 +111,76 @@
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "title": "",
+          "title": "Pierwsze 10 osób, które sie zapiszą się na nasze treningi otrzymają jedną z poniższych bluz do wyboru lub 1 miesiąc gratis",
           "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2t"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fac51c"
-          },
-          "title": "Dlaczego warto wybrać naszą firmę?",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2l"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p><b>-</b> <b>Nasze treningi tworzymy inspirując się wiedzą przekazywaną poprzez wieloletnią współpracę z rekordzistką Polski i multimedalistką mistrzostw polski w biegach średnich i długich Renatą Walendziak,</b></p><p><b>- Rozpisujemy plany trieningowe do triathlonu oraz biegania na dystansie od 1000 m do ultramaratonu,</b></p><p><b>- Dzięki współpracy z ... zapewniamy zniżki na wybrane oferty.</b></p>",
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-2f",
-          "_styles": {
-            "DIV": {
-              "color": "#232323"
-            },
-            "P": {
-              "font-size": "19px"
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fac51c"
-          },
-          "title": "Dołącz do nas już dziś:",
-          "meta": "",
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-29"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-size": "19px"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "title": "Pierwsze 10 osób, które do nas dołączą i skorzystają z naszych usług otrzymają:<br> naszą firmową bluzę lub 1 miesiąc gratis*<br><br>",
-          "meta": "*conajmniej 3 miesięce trzeba mieć wykupione",
           "_tags": [
             "Motywy"
           ],
           "_name": "header3",
           "_anchor": "header3-2a"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": false,
+            "fullWidth": true,
+            "spacing": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "filterBgColor": false,
+            "bgColor": "#efefef",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/76751505-2471589216252111-2051185374507565056-n-1125x2436.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/76751505-2471589216252111-2051185374507565056-n-1125x2436-800x1200.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Szary",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/76943082-419758895645880-1498537389771980800-n-1125x2436.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/76943082-419758895645880-1498537389771980800-n-1125x2436-800x1200.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Żółty",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/76747535-551963078950891-8154820753846435840-n-1125x2436.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/76747535-551963078950891-8154820753846435840-n-1125x2436-800x1200.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Czarny",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Motywy"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery4",
+          "_anchor": "gallery4-2c"
         },
         {
           "_params": {
@@ -250,7 +189,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "showBullets": true,
-            "bgColor": "#232323",
+            "bgColor": "#efefef",
             "timeout": "5",
             "slides": [
               {
@@ -309,15 +248,108 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fac51c"
+            "bgColor": "#efefef"
           },
-          "title": "Kim jest Renata Walendziak?",
+          "title": "Nasza oferta:",
+          "meta": "",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-29"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>- Dzieci d o 14 lat 50% zniżki<br></p><p>- Rozpisujemy plany reningowe na dystansie od 100 m do ultramaratonu,</p><p>- Pierwsze 10 osób, które zapiszą się na naszą stronę i opłacą trening dostaną pierwszy miesiąc za darmo i/lub bluze gratis</p>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2f",
+          "_styles": {
+            "DIV": {
+              "color": "#232323"
+            },
+            "P": {
+              "font-size": "19px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Renata Walendziak<br>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "Krótki życiorys",
           "meta": "",
           "_tags": [
             "Motywy"
@@ -331,17 +363,12 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<blockquote><p><b>&nbsp;Jest polską lekkoatletką, specjalistką biegów długodystansowych&nbsp;i wielokrotną mistrzyni Polski.&nbsp;</b></p><p><b><br></b></p><p><b>Pierwszy brązowy medal drużynowo zdobyła brązowy medal podczas mistrzostw świata w biegach przełajowych w 1975 w Rabacie.&nbsp;</b></p><p><b><br></b></p><p><b>Była mistrzynią Polski w biegu na 3000 metrów w 1976 oraz w maratonie w 1983, 1985 i 1986</b></p><p><b><br></b></p><p><b>Ustanawiała rekordy Polski w biegu na 3000 metrów (9:13,8 30 czerwca 1974 w Warszawie) i trzykrotnie w maratonie (do 2:32:30 6 kwietnia 1986 w Dębnie).</b></p><p><b><br></b></p><p><b>Jednym ze znancyh sportowców, którzy trenowali z Panią Renatą jest Andrzej Magier.</b></p><p><b><br></b></p><p><b>Jej wychowankami są medaliści mistrzostw Polski w różnych kategoriach wiekowych.</b></p></blockquote>",
+          "text": "<blockquote><p>Urodziła się 18 stycznia 1950 r. w Grabowie w gminie Bobowo. Jest polską lekkoatletką, specjalistką biegów długodystansowych<br>&nbsp;i wielokrotną mistrzyni Polski.&nbsp;</p><p><br></p><p>Zajęła 10. miejsce w biegu na 3000 metrów na mistrzostwach Europy w 1974 w Rzymie.</p><p><br></p><p>Zdobyła brązowy medal drużynowo podczas mistrzostw świata w biegach przełajowych w 1975 w Rabacie, a indywidualnie zajęła 13. miejsce. Na mistrzostwach świata w biegach przełajowych w 1977 w Düsseldorfie była indywidualnie 27., a w drużynie 4., a na mistrzostwach świata w biegach przełajowych w 1978 w Glasgow indywidualnie – 29., a drużynowo – 5.</p><p><br></p><p>Od 1979 startowała w maratonach. Zwyciężyła w Maratonie Warszawskim w 1979 i 1987.</p><p><br></p><p>Była mistrzynią Polski w biegu na 3000 metrów w 1976 oraz w maratonie w 1983, 1985 i 1986, wicemistrzynią w biegu na 1500 metrów w 1974, w biegu na 3000 metrów w 1975, w biegu przełajowym w 1974, 1975 i 1976, w maratonie w 1982 oraz w biegu na 20 kilometrów w 1987, a także brązową medalistką w biegu na 1500 metrów w 1975, w biegu na 3000 metrów w 1973, 1974, 1977 i 1979 i w biegu przełajowym w 1973. Zdobyła również brązowy medal w biegu na 1500 metrów w halowych mistrzostwach Polski w 1976.</p><p><br></p><p>Ustanawiała rekordy Polski w biegu na 3000 metrów (9:13,8 30 czerwca 1974 w Warszawie) i trzykrotnie w maratonie (do 2:32:30 6 kwietnia 1986 w Dębnie)</p><p><br></p><p>Była zawodniczką Neptuna Gdańsk i Bałtyku Gdynia.</p></blockquote>",
           "_tags": [
             "Motywy"
           ],
           "_name": "content2",
-          "_anchor": "content2-a",
-          "_styles": {
-            "P": {
-              "font-size": "20px"
-            }
-          }
+          "_anchor": "content2-a"
         },
         {
           "_styles": {
@@ -353,9 +380,9 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fac51c"
+            "bgColor": "#efefef"
           },
-          "title": "Jej największe osiągnięcia",
+          "title": "Najważniejsze medale i osiągnięcia",
           "meta": "",
           "_tags": [
             "Motywy"
@@ -525,13 +552,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0a0a0a"
+              "background": "#060319"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#1b1b1b!important"
+              "background": "#0e0738!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#232323"
+              "background": "#110946"
             },
             ".bg-color.transparent .link": {
               "color": "#efefef",
@@ -557,21 +584,22 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "bgColor": "#232323",
+            "bgColor": "#110946",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza oferta</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Trening</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/78307572-539327776916618-78249267596770672647-n-1-133x128.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/78307572-539327776916618-78249267596770672647-n-133x128.jpeg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -588,13 +616,13 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#232323",
+            "bgColor": "#110946",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -611,9 +639,9 @@
               "size": 0
             }
           },
-          "text1": "<br><br><br>",
-          "text2": "Kontakt<br><br>\nEmail: <a href=\"mailto:wiserunnigsystem@gmail.com\" class=\"text-warning\">wiserunnigsystem@gmail.com</a><br>Telefon:<a href=\"tel:798292688\" class=\"text-warning\">&nbsp;+48 798292688</a><br><br>",
-          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\" class=\"text-warning\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\" class=\"text-warning\">www.instagram.com/wiserunningsystem</a><br><br>",
+          "text1": "Adres<br><br><br>",
+          "text2": "Kontakt<br><br>\nEmail: wiserunnigsystem@gmail.com<br>Telefon: 509976026<br><br>",
+          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\">www.instagram.com/wiserunningsystem</a><br><br>",
           "_tags": [
             "Motywy"
           ],
@@ -621,8 +649,7 @@
           "_anchor": "contacts1-2d",
           "_styles": {
             "P": {
-              "color": "#efefef",
-              "text-align": "left"
+              "color": "#efefef"
             }
           }
         },
@@ -634,7 +661,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#232323",
+            "bgColor": "#110946",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -682,13 +709,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0a0a0a"
+              "background": "#060319"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#1b1b1b!important"
+              "background": "#0e0738!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#232323"
+              "background": "#110946"
             },
             ".bg-color.transparent .link": {
               "color": "#efefef",
@@ -714,17 +741,17 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "bgColor": "#232323",
+            "bgColor": "#110946",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza oferta</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Trening</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/78307572-539327776916618-78249267596770672647-n-1-133x128.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/78307572-539327776916618-78249267596770672647-n-133x128.jpeg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -760,7 +787,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/desert.jpeg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#232323",
+            "bgColor": "#110946",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -789,7 +816,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fac51c",
+            "bgColor": "#efefef",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -837,13 +864,13 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#232323",
+            "bgColor": "#110946",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -860,9 +887,9 @@
               "size": 0
             }
           },
-          "text1": "<br><br><br>",
-          "text2": "Kontakt<br><br>\nEmail: <a href=\"mailto:wiserunnigsystem@gmail.com\" class=\"text-warning\">wiserunnigsystem@gmail.com</a><br>Telefon:<a href=\"tel:798292688\" class=\"text-warning\">&nbsp;+48 798292688</a><br><br>",
-          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\" class=\"text-warning\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\" class=\"text-warning\">www.instagram.com/wiserunningsystem</a><br><br>",
+          "text1": "Adres<br><br><br>",
+          "text2": "Kontakt<br><br>\nEmail: wiserunnigsystem@gmail.com<br>Telefon: 509976026<br><br>",
+          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\">www.instagram.com/wiserunningsystem</a><br><br>",
           "_tags": [
             "Motywy"
           ],
@@ -870,8 +897,7 @@
           "_anchor": "contacts1-2d",
           "_styles": {
             "P": {
-              "color": "#efefef",
-              "text-align": "left"
+              "color": "#efefef"
             }
           }
         },
@@ -883,7 +909,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#232323",
+            "bgColor": "#110946",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -931,13 +957,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0a0a0a"
+              "background": "#060319"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#1b1b1b!important"
+              "background": "#0e0738!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#232323"
+              "background": "#110946"
             },
             ".bg-color.transparent .link": {
               "color": "#efefef",
@@ -963,17 +989,17 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "bgColor": "#232323",
+            "bgColor": "#110946",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza oferta</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Trening</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/78307572-539327776916618-78249267596770672647-n-1-133x128.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/78307572-539327776916618-78249267596770672647-n-133x128.jpeg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1009,7 +1035,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/desert.jpeg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#232323",
+            "bgColor": "#110946",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1042,7 +1068,7 @@
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fac51c",
+            "bgColor": "#cccccc",
             "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": 0.2
@@ -1056,7 +1082,7 @@
             {
               "authorName": "Czy to coś kosztuje?<br>",
               "authorBio": "User",
-              "text": "<p>Tak, zależy jak zaawansowany ma być trening bądź porada dietyczna.</p>",
+              "text": "<p>Tak, zależy jak zaawansowany ma być trening bądź dieta.</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -1068,7 +1094,7 @@
               }
             },
             {
-              "authorName": "Co sie stanie jak ominę jeden terning?",
+              "authorName": "Co sie stanie jak omine jeden terning?",
               "authorBio": "User",
               "text": "<p>Nic, to od ciebie zależy jak zastosujesz się do zaleceń specjalisty.</p>",
               "media": {
@@ -1101,13 +1127,13 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#232323",
+            "bgColor": "#110946",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1124,9 +1150,9 @@
               "size": 0
             }
           },
-          "text1": "<br><br><br>",
-          "text2": "Kontakt<br><br>\nEmail: <a href=\"mailto:wiserunnigsystem@gmail.com\" class=\"text-warning\">wiserunnigsystem@gmail.com</a><br>Telefon:<a href=\"tel:798292688\" class=\"text-warning\">&nbsp;+48 798292688</a><br><br>",
-          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\" class=\"text-warning\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\" class=\"text-warning\">www.instagram.com/wiserunningsystem</a><br><br>",
+          "text1": "Adres<br><br><br>",
+          "text2": "Kontakt<br><br>\nEmail: wiserunnigsystem@gmail.com<br>Telefon: 509976026<br><br>",
+          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\">www.instagram.com/wiserunningsystem</a><br><br>",
           "_tags": [
             "Motywy"
           ],
@@ -1134,8 +1160,7 @@
           "_anchor": "contacts1-2d",
           "_styles": {
             "P": {
-              "color": "#efefef",
-              "text-align": "left"
+              "color": "#efefef"
             }
           }
         },
@@ -1147,7 +1172,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#232323",
+            "bgColor": "#110946",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -1195,13 +1220,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0a0a0a"
+              "background": "#060319"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#1b1b1b!important"
+              "background": "#0e0738!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#232323"
+              "background": "#110946"
             },
             ".bg-color.transparent .link": {
               "color": "#efefef",
@@ -1227,17 +1252,17 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "bgColor": "#232323",
+            "bgColor": "#110946",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza oferta</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Trening</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/78307572-539327776916618-78249267596770672647-n-1-133x128.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/78307572-539327776916618-78249267596770672647-n-133x128.jpeg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1261,9 +1286,6 @@
           "_styles": {
             ".mbr-section-title, .lead": {
               "color": "#fff"
-            },
-            ".lead P": {
-              "font-size": "32px"
             }
           },
           "_params": {
@@ -1276,7 +1298,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/desert.jpeg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#232323",
+            "bgColor": "#110946",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1286,7 +1308,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Wise Running<br>System",
-          "text": "<p><b>Change your life! Be active!</b></p>",
+          "text": "<p>Change your life! Be active!</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Motywy"
@@ -1298,18 +1320,15 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-size": "48px"
             }
           },
           "_params": {
             "showMeta": false,
             "paddingTop": "2",
             "paddingBottom": "3",
-            "bgColor": "#fac51c"
+            "bgColor": "#efefef"
           },
-          "title": "Dołącz do NAS już dziś!<br><br>Nasza Oferta:",
+          "title": "Już niedługo otwieramy ofertę:",
           "meta": "",
           "_tags": [
             "Motywy"
@@ -1323,14 +1342,14 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "30",
-            "paddingTop": "1",
+            "imageSize": 50,
+            "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1357,23 +1376,14 @@
               "size": 0
             }
           },
-          "title": "Przygotowanie treningów indywidualnych",
-          "text": "Wybór sposobu kontaktu z Naszymi trenerami jest dowolny i zaleźny tylko i wyłącznie od klientow. Dostosowujemy harmonogram startu do indywidualnych potrzeb klientów.",
+          "title": "Treningów Online",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Motywy"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-1y",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-size": "20px"
-            },
-            "H3": {
-              "text-align": "left"
-            }
-          }
+          "_anchor": "msg-box5-1y"
         },
         {
           "_params": {
@@ -1381,14 +1391,14 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "36",
+            "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1419,19 +1429,13 @@
             }
           },
           "title": "Porady dietetyczne",
-          "text": "Nasi trenerzy mają doświadczenie nie tylko w treningach wytrzymałościowych, ale równieź w zakresie odżywiania. <br>Współpracujemy równieź z firmami oferującymi diety i porady dietetyczne odpowiednio dopasowane do potrzeb naszych klientów.",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Motywy"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-1z",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-size": "20px"
-            }
-          }
+          "_anchor": "msg-box5-1z"
         },
         {
           "_params": {
@@ -1439,14 +1443,14 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "30",
+            "imageSize": "35",
             "paddingTop": 0,
-            "paddingBottom": "1",
+            "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#cccccc",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1459,7 +1463,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+              "src": "@PROJECT_PATH@/assets/images/fotolia-106667964-m-1190x781.jpeg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -1473,41 +1480,29 @@
               "size": 0
             }
           },
-          "title": "Zgrupowania sportowe",
-          "text": "Organizujemy wyjzdy na terenie Polsce i za granicą.",
+          "title": "Trenera Osobitego",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Motywy"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-2o",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-size": "20px"
-            },
-            "H3": {
-              "text-align": "left"
-            }
-          }
+          "_anchor": "msg-box5-20"
         },
         {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#f2f2f2"
             }
           },
           "_params": {
-            "showMeta": false,
+            "showMeta": true,
             "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#000000"
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
           },
-          "title": "Nasza Kadra Trenerska",
-          "meta": "",
+          "title": "Nasi trenerzy",
+          "meta": "Nasza firma dysponuje jednymi z najlepszych trenerów",
           "_tags": [
             "Motywy"
           ],
@@ -1516,10 +1511,10 @@
         },
         {
           "_params": {
-            "showImages": true,
+            "showImages": false,
             "showTitles": true,
             "showSubtitles": true,
-            "ShowTexts": false,
+            "ShowTexts": true,
             "showButtons": false,
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -1528,7 +1523,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#232323",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1539,35 +1534,26 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/82395088-468104603858612-6804936047659581440-n-600x400.jpeg",
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
+              "active": true
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/81570469-542920653231921-6535960349198254080-n-600x400.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
+              "active": true
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/81321950-3354382177936434-956692858398572544-n-600x400.jpeg",
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
+              "active": true
             }
           },
           "media4": {
@@ -1594,14 +1580,14 @@
               "active": true
             }
           },
-          "title1": "Szymon Gwardjak",
-          "subtitle1": "Triathlon",
+          "title1": "Szymon Owardjak",
+          "subtitle1": "email<br>telefon",
           "caption1": "Ogólne informacje o sobie",
           "title2": "Damian Sławiński",
-          "subtitle2": "Biegi srednie i dlugie",
+          "subtitle2": "email\r<div>telefon</div>",
           "caption2": "Ogólne informacje o sobie",
           "title3": "Jarosław Ziółkowski",
-          "subtitle3": "Biegi ultra i zajecia z dziećmi<br>",
+          "subtitle3": "email\n<div>telefon</div>",
           "caption3": "Ogólne informacje o sobie",
           "title4": "Imię Nazwisko",
           "subtitle4": "email\r<div>telefon</div>",
@@ -1622,77 +1608,17 @@
             "Motywy"
           ],
           "_name": "features3",
-          "_anchor": "features3-1u",
-          "_styles": {
-            "H4": {
-              "color": "#cccccc"
-            },
-            "H5": {
-              "color": "#c1c1c1",
-              "font-size": "19px"
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "46px"
-            },
-            ".mbr-section-title": {
-              "text-align": "left",
-              "font-size": "46px",
-              "color": "#cccccc"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#000000"
-          },
-          "title": "Zakładamy trójmiejską grupę sportową. Wiecej informacji na naszym <a href=\"http://www.facebook.com/WiseRunning-113387190100920\" target=\"_blank\" class=\"text-info\">facebooku</a> i <a href=\"http://www.instagram.com/wiserunningsystem\" target=\"_blank\" class=\"text-danger\">instagramie</a>!<br>",
-          "meta": "",
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2q"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "text-align": "left"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fac51c"
-          },
-          "title": "Dzieci do dwunastego roku życia maja 50% zniżki na nasze treningi!<br>Prowadzimy zajęcia z dziećmi do 12 lat",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2r"
+          "_anchor": "features3-1u"
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#232323",
+            "bgColor": "#110946",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1709,9 +1635,9 @@
               "size": 0
             }
           },
-          "text1": "<br><br><br>",
-          "text2": "Kontakt<br><br>\nEmail: <a href=\"mailto:wiserunnigsystem@gmail.com\" class=\"text-warning\">wiserunnigsystem@gmail.com</a><br>Telefon:<a href=\"tel:798292688\" class=\"text-warning\">&nbsp;+48 798292688</a><br><br>",
-          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\" class=\"text-warning\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\" class=\"text-warning\">www.instagram.com/wiserunningsystem</a><br><br>",
+          "text1": "Adres<br><br><br>",
+          "text2": "Kontakt<br><br>\nEmail: wiserunnigsystem@gmail.com<br>Telefon: 509976026<br><br>",
+          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\">www.instagram.com/wiserunningsystem</a><br><br>",
           "_tags": [
             "Motywy"
           ],
@@ -1719,8 +1645,7 @@
           "_anchor": "contacts1-2d",
           "_styles": {
             "P": {
-              "color": "#efefef",
-              "text-align": "left"
+              "color": "#efefef"
             }
           }
         },
@@ -1732,7 +1657,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#232323",
+            "bgColor": "#110946",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -1780,13 +1705,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0a0a0a"
+              "background": "#060319"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#1b1b1b!important"
+              "background": "#0e0738!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#232323"
+              "background": "#110946"
             },
             ".bg-color.transparent .link": {
               "color": "#efefef",
@@ -1812,17 +1737,17 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "bgColor": "#232323",
+            "bgColor": "#110946",
             "fontSize": "1",
             "fontName": {},
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza oferta</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Trening</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/78307572-539327776916618-78249267596770672647-n-1-133x128.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/78307572-539327776916618-78249267596770672647-n-133x128.jpeg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1849,30 +1774,10 @@
             }
           },
           "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#232323"
-          },
-          "title": "Title with Solid Background Color",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2s"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
             "showMeta": true,
             "paddingTop": "7",
             "paddingBottom": "7",
-            "bgColor": "#1b6dc9"
+            "bgColor": "#fff"
           },
           "title": "PRACE NAD TĄ CZĘŚCIĄ STRONY TRWAJĄ",
           "meta": "",
@@ -1884,13 +1789,13 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#232323",
+            "bgColor": "#110946",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1907,17 +1812,16 @@
               "size": 0
             }
           },
-          "text1": "<br><br><br>",
-          "text2": "Kontakt<br><br>\nEmail: <a href=\"mailto:wiserunnigsystem@gmail.com\" class=\"text-warning\">wiserunnigsystem@gmail.com</a><br>Telefon:<a href=\"tel:798292688\" class=\"text-warning\">&nbsp;+48 798292688</a><br><br>",
-          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\" class=\"text-warning\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\" class=\"text-warning\">www.instagram.com/wiserunningsystem</a><br><br>",
+          "text1": "Adres<br><br><br>",
+          "text2": "Kontakt<br><br>\nEmail: wiserunnigsystem@gmail.com<br>Telefon: 509976026<br><br>",
+          "text3": "Linki<br><br>facebook: <a href=\"https://www.facebook.com/WiseRunning-113387190100920/\">www.facebook.com/WiseRunning-113387190100920</a><br>instagram:&nbsp;<br><a href=\"http://www.instagram.com/wiserunningsystem\">www.instagram.com/wiserunningsystem</a><br><br>",
           "_tags": [
             "Motywy"
           ],
           "_name": "contacts1",
           "_styles": {
             "P": {
-              "color": "#efefef",
-              "text-align": "left"
+              "color": "#efefef"
             }
           },
           "_anchor": "contacts1-2h"
@@ -1930,7 +1834,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#232323",
+            "bgColor": "#110946",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
