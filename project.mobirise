@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-04_1947",
-    "currentPage": "page9.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.15",
     "siteFonts": [],
-    "uniqCompNum": 96,
+    "uniqCompNum": 97,
     "versionPublish": "4.10.15",
     "screenshot": "screenshot.png",
     "cookiesAlert": {
@@ -408,7 +408,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -565,7 +565,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -814,7 +814,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1078,7 +1078,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1665,7 +1665,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1863,7 +1863,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1924,24 +1924,65 @@
           "_anchor": "msg-box8-2s"
         },
         {
+          "_inherit": "msg-box5",
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+            "h3, p": {
+              "color": "#fff"
+            },
+            "H3": {
+              "color": "#000000"
             }
           },
           "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fac51c"
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "55",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/walendziak-1363x791.jpeg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
           },
           "title": "Kim jest Renata Walendziak?",
-          "meta": "",
+          "text": "This is an intro with beautiful background video and image on the left side.",
           "_tags": [
             "Motywy"
           ],
-          "_name": "header3",
-          "_anchor": "header3-2v"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-2o"
         },
         {
           "_params": {
@@ -1949,7 +1990,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<blockquote><p><b>&nbsp;Jest polską lekkoatletką, specjalistką biegów długodystansowych&nbsp;i wielokrotną mistrzyni Polski.&nbsp;</b></p><p><b><br></b></p><p><b>Pierwszy brązowy medal drużynowo zdobyła brązowy medal podczas mistrzostw świata w biegach przełajowych w 1975 w Rabacie.&nbsp;</b></p><p><b><br></b></p><p><b>Była mistrzynią Polski w biegu na 3000 metrów w 1976 oraz w maratonie w 1983, 1985 i 1986</b></p><p><b><br></b></p><p><b>Ustanawiała rekordy Polski w biegu na 3000 metrów (9:13,8 30 czerwca 1974 w Warszawie) i trzykrotnie w maratonie (do 2:32:30 6 kwietnia 1986 w Dębnie).</b></p><p><b><br></b></p><p><b>Jednym ze znancyh sportowców, którzy trenowali z Panią Renatą jest Andrzej Magier.</b></p><p><b><br></b></p><p><b>Jej wychowankami są medaliści mistrzostw Polski w różnych kategoriach wiekowych.</b></p></blockquote>",
+          "text": "<blockquote><p>&nbsp;Jest polską lekkoatletką, specjalistką biegów długodystansowych&nbsp;i wielokrotną mistrzyni Polski.&nbsp;</p><p><br></p><p>Pierwszy brązowy medal drużynowo zdobyła brązowy medal podczas mistrzostw świata w biegach przełajowych w 1975 w Rabacie.&nbsp;</p><p><br></p><p>Była mistrzynią Polski w biegu na 3000 metrów w 1976 oraz w maratonie w 1983, 1985 i 1986</p><p><br></p><p>Ustanawiała rekordy Polski w biegu na 3000 metrów (9:13,8 30 czerwca 1974 w Warszawie) i trzykrotnie w maratonie (do 2:32:30 6 kwietnia 1986 w Dębnie).</p><p><br></p><p>Jednym ze znancyh sportowców, którzy trenowali z Panią Renatą jest Andrzej Magier.</p><p><br></p><p>Jej wychowankami są medaliści mistrzostw Polski w różnych kategoriach wiekowych.</p></blockquote>",
           "_tags": [
             "Motywy"
           ],
@@ -2250,7 +2291,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
           "logo": {
             "image": {
               "active": true,
