@@ -1017,9 +1017,12 @@ section.form .container {
 #msg-box8-2s .lead P {
   font-size: 32px;
 }
-#header3-2v .mbr-section-title,
-#header3-2v .mbr-section-subtitle {
-  text-align: center;
+#msg-box6-2o h3,
+#msg-box6-2o p {
+  color: #fff;
+}
+#msg-box6-2o H3 {
+  color: #000000;
 }
 #content2-2w P {
   font-size: 20px;
