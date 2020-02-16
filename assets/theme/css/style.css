@@ -734,7 +734,8 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 
   .mbr-section-nopadding {
     padding-top: 0;
-    padding-bottom: 0; }
+    padding-bottom: 0;
+	}
 
   .mbr-section-subtitle {
     margin-bottom: 0; }
@@ -818,7 +819,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   margin: 0;
   overflow: hidden;
   position: relative;
-  width: 100%; }
+  width: 70%; }
   .mbr-figure img, .mbr-figure iframe {
     display: block;
     width: 100%; }
@@ -1250,7 +1251,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 .mbr-cards .card-img-top {
   border-radius: 0;
   width: auto;
-  max-width: 100%; }
+  max-width: 80%; }
 .mbr-cards .card-img + .card-block {
   padding-top: 2.3125rem; }
 .mbr-cards .card-text {

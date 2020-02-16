@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-04_1947",
-    "currentPage": "index.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -21,19 +21,19 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#e8ddcd",
         "#565656",
         "#bd7c1d",
         "#995f09",
         "#110946",
         "#f2f2f2",
-        "#710e01",
-        "#232323"
+        "#710e01"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.15",
     "siteFonts": [],
-    "uniqCompNum": 97,
+    "uniqCompNum": 109,
     "versionPublish": "4.10.15",
     "screenshot": "screenshot.png",
     "cookiesAlert": {
@@ -76,17 +76,20 @@
               "color": "#fff"
             },
             ".lead P": {
-              "font-size": "32px"
+              "font-size": "17px"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/bieganie-po-asfalcie-e1528114853788-2-770x600.jpeg",
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpeg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#232323",
@@ -105,7 +108,7 @@
             "Motywy"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-5"
+          "_anchor": "msg-box8-2s"
         },
         {
           "_styles": {
@@ -113,7 +116,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "font-size": "36px",
+              "font-size": "30px",
               "text-align": "center"
             }
           },
@@ -137,11 +140,11 @@
               "text-align": "center"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "25px"
+              "font-size": "17px"
             },
             ".mbr-section-title": {
               "text-align": "left",
-              "font-size": "25px"
+              "font-size": "17px"
             }
           },
           "_params": {
@@ -150,7 +153,7 @@
             "paddingBottom": "1",
             "bgColor": "#efefef"
           },
-          "title": "<span style=\"font-weight: normal;\">Dla nas nie ma znaczenia, czy jesteś </span>początkującym<span style=\"font-weight: normal;\">, czy </span>zahartowanym<span style=\"font-weight: normal;\"> sportowcem oraz &nbsp;w jakim wieku jesteś. Dla każdego tworzymy indywidualny trening.</span>",
+          "title": "<span style=\"font-weight: normal;\">Dla nas nie ma znaczenia, czy jesteś </span>początkującym<span style=\"font-weight: normal;\">, czy </span>zawansowanym&nbsp;<span style=\"font-weight: normal;\">sportowcem oraz &nbsp;w jakim wieku jesteś. Dla każdego tworzymy indywidualny trening.</span>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Motywy"
@@ -159,67 +162,137 @@
           "_anchor": "header3-2t"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px",
+              "text-align": "center"
+            }
+          },
           "_params": {
-            "autoplay": true,
-            "fullScreen": false,
+            "showMeta": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "showBullets": true,
-            "bgColor": "#232323",
-            "timeout": "5",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/man-back.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Aktualność 1",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Aktulaności</a> ",
-                "overlayOpacity": "0.5"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/bridge.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Aktualność 2",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.5"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/sparklers.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Aktualność 3",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">Aktualności</a> "
-              }
-            ]
+            "bgColor": "#fac51c"
           },
-          "articleLayout": false,
+          "title": "Aktualności",
+          "meta": "",
           "_tags": [
             "Motywy"
           ],
-          "_name": "slider",
-          "_anchor": "slider-2k"
+          "_name": "header3",
+          "_anchor": "header3-2q"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Aktualność 1",
+          "subtitle1": "Data 1",
+          "caption1": "WRS rozpoczyna kontrolę nad szkoleniem dzieci i młodzierzy klubu LKS Zorza Gdynia.",
+          "title2": "Aktualność 2",
+          "subtitle2": "Data 2",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Aktualność 3",
+          "subtitle3": "Data 3",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Więcej</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Więcej</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Więcej</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-2p",
+          "_styles": {
+            "H4": {
+              "font-size": "17px"
+            },
+            "P": {
+              "font-size": "17px"
+            }
+          }
         },
         {
           "_styles": {
@@ -227,7 +300,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "font-size": "36px",
+              "font-size": "30px",
               "text-align": "center"
             }
           },
@@ -251,7 +324,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<p>Nasze treningi tworzymy inspirując się wiedzą przekazywaną poprzez wieloletnią współpracę z <b>rekordzistką Polski</b> i &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>multimedalistką mistrzostw polski</b> w biegach średnich i długich <b>Renatą Walendziak</b>.&nbsp;Rozpisujemy plany trieningowe do<b> triathlonu</b> oraz biegania na dystansie <b>od 1000 m do ultramaratonu</b>.&nbsp;Dzięki współpracy z ... zapewniamy <b>zniżki</b> na wybrane oferty.</p>",
+          "text": "<p>Nasze treningi tworzymy inspirując się wiedzą przekazywaną poprzez wieloletnią współpracę z <b>rekordzistką Polski</b> i <b>multimedalistką mistrzostw polski</b> w biegach średnich i długich <b>Renatą Walendziak</b>.&nbsp;Rozpisujemy plany trieningowe do<b> triathlonu</b> oraz biegania na dystansie <b>od 1000 m do ultramaratonu</b>.&nbsp;Dzięki współpracy z ... zapewniamy <b>zniżki</b> na wybrane oferty.</p>",
           "_tags": [
             "Motywy"
           ],
@@ -262,7 +335,7 @@
               "color": "#232323"
             },
             "P": {
-              "font-size": "19px",
+              "font-size": "17px",
               "text-align": "left"
             }
           }
@@ -273,7 +346,7 @@
               "text-align": "center"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "36px"
+              "font-size": "30px"
             },
             ".mbr-section-title": {
               "color": "#efefef",
@@ -282,7 +355,7 @@
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": 1,
+            "paddingTop": "0",
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
@@ -300,7 +373,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "font-size": "36px"
+              "font-size": "30px"
             }
           },
           "_params": {
@@ -316,120 +389,6 @@
           ],
           "_name": "header3",
           "_anchor": "header3-29"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-size": "19px"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "title": "Pierwsze 10 osób, które do nas dołączą i skorzystają z naszych usług otrzymają:<br> naszą firmową bluzę lub 1 miesiąc gratis*<br><br>",
-          "meta": "*przy zakupie 3-miesięcznego karnetu",
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2a"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#efefef"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
-            },
-            ".link, .dropdown-item": {
-              "color": "#efefef"
-            },
-            ".link": {
-              "font-size": "1rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0a0a0a"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#1b1b1b!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#232323"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#efefef",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            },
-            "A": {
-              "font-size": "12px"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": true,
-            "bgColor": "#232323",
-            "fontSize": "1",
-            "fontName": {},
-            "fontColor": "#efefef",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/78307572-539327776916618-78249267596770672647-n-1-133x128.jpeg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Wise Runnig System</a>",
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-1"
         },
         {
           "_params": {
@@ -490,16 +449,7 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-2e"
-        }
-      ]
-    },
-    "page4.html": {
-      "settings": {
-        "meta_descr": "Site Maker Description",
-        "title": "kontakt",
-        "order": 6
-      },
-      "components": [
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -565,7 +515,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -573,8 +523,7 @@
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -587,12 +536,27 @@
             "Motywy"
           ],
           "_name": "menu",
-          "_anchor": "menu-m"
-        },
+          "_anchor": "menu-2x"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "Site Maker Description",
+        "title": "kontakt",
+        "order": 6
+      },
+      "components": [
         {
           "_styles": {
             ".mbr-section-title, .lead": {
               "color": "#fff"
+            },
+            ".lead P": {
+              "font-size": "17px"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_params": {
@@ -615,20 +579,20 @@
             "overlayOpacity": 0.5
           },
           "title": "Wise Running<br>System",
-          "text": "<p>Change your life! Be active!</p>",
+          "text": "<p><b>Change your life! Be active!</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Motywy"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-23"
+          "_anchor": "msg-box8-30"
         },
         {
           "_params": {
             "showTitle": true,
-            "showSubTitle": true,
+            "showSubTitle": false,
             "labelsColor": "#232323",
-            "paddingTop": 3,
+            "paddingTop": "1",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -677,6 +641,9 @@
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
             }
           }
         },
@@ -739,16 +706,7 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-2e"
-        }
-      ]
-    },
-    "page5.html": {
-      "settings": {
-        "meta_descr": "Site Builder Description",
-        "title": "faq",
-        "order": 5
-      },
-      "components": [
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -814,7 +772,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -822,8 +780,7 @@
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -836,12 +793,27 @@
             "Motywy"
           ],
           "_name": "menu",
-          "_anchor": "menu-o"
-        },
+          "_anchor": "menu-2x"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "faq",
+        "order": 5
+      },
+      "components": [
         {
           "_styles": {
             ".mbr-section-title, .lead": {
               "color": "#fff"
+            },
+            ".lead P": {
+              "font-size": "17px"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_params": {
@@ -864,13 +836,13 @@
             "overlayOpacity": 0.5
           },
           "title": "Wise Running<br>System",
-          "text": "<p>Change your life! Be active!</p>",
+          "text": "<p><b>Change your life! Be active!</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Motywy"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-22"
+          "_anchor": "msg-box8-2z"
         },
         {
           "_inherit": "testimonials2",
@@ -881,8 +853,8 @@
             "showName": true,
             "showBio": false,
             "count": 3,
-            "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
             "parallax": true,
@@ -942,7 +914,12 @@
             }
           ],
           "_name": "testimonials4",
-          "_anchor": "testimonials4-18"
+          "_anchor": "testimonials4-18",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          }
         },
         {
           "_params": {
@@ -1003,16 +980,7 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-2e"
-        }
-      ]
-    },
-    "page9.html": {
-      "settings": {
-        "meta_descr": "Website Builder Description",
-        "title": "nasza oferta",
-        "order": 4
-      },
-      "components": [
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -1078,7 +1046,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1086,8 +1054,7 @@
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1100,15 +1067,27 @@
             "Motywy"
           ],
           "_name": "menu",
-          "_anchor": "menu-1s"
-        },
+          "_anchor": "menu-2x"
+        }
+      ]
+    },
+    "page9.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "nasza oferta",
+        "order": 4
+      },
+      "components": [
         {
           "_styles": {
             ".mbr-section-title, .lead": {
               "color": "#fff"
             },
             ".lead P": {
-              "font-size": "32px"
+              "font-size": "17px"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_params": {
@@ -1137,7 +1116,7 @@
             "Motywy"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-21"
+          "_anchor": "msg-box8-2y"
         },
         {
           "_styles": {
@@ -1145,13 +1124,13 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "font-size": "48px"
+              "font-size": "30px"
             }
           },
           "_params": {
             "showMeta": false,
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgColor": "#fac51c"
           },
           "title": "Nasza Oferta:",
@@ -1168,9 +1147,9 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "38",
+            "imageSize": "29",
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1206,7 +1185,7 @@
             }
           },
           "title": "Przygotowanie treningów indywidualnych",
-          "text": "Wybór sposobu kontaktu z Naszymi trenerami jest dowolny i zaleźny tylko i wyłącznie od klientow. Dostosowujemy harmonogram startu do indywidualnych potrzeb klientów.",
+          "text": "Wybór sposobu kontaktu z Naszymi trenerami jest dowolny i zaleźny tylko i wyłącznie od klientow. Dostosowujemy harmonogram startów do indywidualnych potrzeb klientów.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Motywy"
@@ -1216,10 +1195,11 @@
           "_styles": {
             "P": {
               "text-align": "left",
-              "font-size": "20px"
+              "font-size": "17px"
             },
             "H3": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "30px"
             }
           }
         },
@@ -1229,9 +1209,9 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "38",
-            "paddingTop": 0,
-            "paddingBottom": "1",
+            "imageSize": "29",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1267,7 +1247,7 @@
             }
           },
           "title": "Porady dietetyczne",
-          "text": "Nasi trenerzy mają doświadczenie nie tylko w treningach wytrzymałościowych, ale równieź w zakresie odżywiania. <br>Współpracujemy równieź z firmami oferującymi diety i porady dietetyczne odpowiednio dopasowane do potrzeb naszych klientów.",
+          "text": "Nasi trenerzy mają doświadczenie nie tylko w treningach wytrzymałościowych, ale równieź w zakresie odżywiania. W najbliższym czasie rozpoczynamy współpracę z firmami, dzięki którym zaoferujemy zniżki na wybrane usługi przydatne każdemu sponsorowi zarówno na poziomie amatorskim jak i zaawansowanym<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Motywy"
@@ -1277,10 +1257,11 @@
           "_styles": {
             "P": {
               "text-align": "left",
-              "font-size": "20px"
+              "font-size": "17px"
             },
             "H3": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "30px"
             }
           }
         },
@@ -1290,8 +1271,8 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "38",
-            "paddingTop": 0,
+            "imageSize": "29",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1335,12 +1316,96 @@
           "_styles": {
             "P": {
               "text-align": "left",
-              "font-size": "20px"
+              "font-size": "17px"
             },
             "H3": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "30px"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff",
+              "font-size": "30px"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            ".mbr-price-figure": {
+              "font-size": "32px"
+            },
+            ".mbr-price-term": {
+              "font-size": "25px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "",
+            "secondType": "bg-primary",
+            "thirdType": "hidden",
+            "fourthType": "hidden",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "showButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#303030",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "TABELA OPŁAT",
+          "subtitle": "Pricing table with four columns and solid color background.",
+          "title1": "",
+          "title2": "",
+          "title3": "PREMIUM",
+          "title4": "ULTIMATE",
+          "subtitle1": "",
+          "subtitle2": "Description",
+          "subtitle3": "Description",
+          "subtitle4": "Description",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "",
+          "currency2": "",
+          "currency3": "$",
+          "currency4": "$",
+          "price1": "Biegi<br>",
+          "price2": "Thriatlon",
+          "price3": "0",
+          "price4": "0",
+          "period1": "<br>Dzieci<br>PLN 100/msc.<br><br>Dorośli<br>PLN 200/msc.<br>",
+          "period2": "<br><br>Dzieci\n<br>PLN 200/msc.\n<br>\n<br>Dorośli\n<br>PLN 400/msc.<br>",
+          "period3": "/mo.",
+          "period4": "/mo.",
+          "description1": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "description2": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-2r"
         },
         {
           "_styles": {
@@ -1348,13 +1413,14 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#f2f2f2"
+              "color": "#f2f2f2",
+              "font-size": "30px"
             }
           },
           "_params": {
             "showMeta": false,
             "paddingTop": 1,
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgColor": "#000000"
           },
           "title": "Nasza Kadra Trenerska",
@@ -1476,11 +1542,12 @@
           "_anchor": "features3-1u",
           "_styles": {
             "H4": {
-              "color": "#cccccc"
+              "color": "#cccccc",
+              "font-size": "17px"
             },
             "H5": {
               "color": "#c1c1c1",
-              "font-size": "19px"
+              "font-size": "17px"
             }
           }
         },
@@ -1488,6 +1555,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
             }
           },
           "_params": {
@@ -1496,40 +1566,13 @@
             "paddingBottom": 1,
             "bgColor": "#fac51c"
           },
-          "title": "<a href=\"page6.html\" class=\"text-black\">Dołącz do NAS już dziś!</a>",
+          "title": "Dołącz do NAS już dziś!",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Motywy"
           ],
           "_name": "header3",
           "_anchor": "header3-2o"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "text-align": "left",
-              "font-size": "36px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "36px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fac51c"
-          },
-          "title": "<span style=\"font-weight: normal;\">Dzieci do </span>12-ego <span style=\"font-weight: normal;\">roku życia maja</span> 50% <span style=\"font-weight: normal;\">zniżki na nasze treningi!</span><br><span style=\"font-weight: normal;\">Prowadzimy zajęcia z dziećmi do </span>12-ego <span style=\"font-weight: normal;\">roku życia.</span>",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2r"
         },
         {
           "_params": {
@@ -1590,6 +1633,94 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-2e"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a0a0a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#1b1b1b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#232323"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "A": {
+              "font-size": "12px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#232323",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#efefef",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/78307572-539327776916618-78249267596770672647-n-1-133x128.jpeg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Wise Runnig System</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2x"
         }
       ]
     },
@@ -1665,7 +1796,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1673,8 +1804,7 @@
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1687,27 +1817,47 @@
             "Motywy"
           ],
           "_name": "menu",
-          "_anchor": "menu-2g"
+          "_anchor": "menu-2x"
         },
         {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "font-size": "17px"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#232323"
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpeg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#232323",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "title": "Title with Solid Background Color",
-          "meta": "By John Smith posted July 20, 2016",
+          "title": "Wise Running<br>System",
+          "text": "<p><b>Change your life! Be active!</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Motywy"
           ],
-          "_name": "header3",
-          "_anchor": "header3-2s"
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2w"
         },
         {
           "_styles": {
@@ -1800,109 +1950,24 @@
       "components": [
         {
           "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#efefef"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#efefef"
-            },
-            ".link, .dropdown-item": {
-              "color": "#efefef"
-            },
-            ".link": {
-              "font-size": "1rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0a0a0a"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#1b1b1b!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#232323"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#efefef",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            },
-            "A": {
-              "font-size": "12px"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": true,
-            "bgColor": "#232323",
-            "fontSize": "1",
-            "fontName": {},
-            "fontColor": "#efefef",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/78307572-539327776916618-78249267596770672647-n-1-133x128.jpeg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Wise Runnig System</a>",
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-2p"
-        },
-        {
-          "_styles": {
             ".mbr-section-title, .lead": {
               "color": "#fff"
             },
             ".lead P": {
-              "font-size": "32px"
+              "font-size": "17px"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/bieganie-po-asfalcie-e1528114853788-2-770x600.jpeg",
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpeg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#232323",
@@ -1921,7 +1986,7 @@
             "Motywy"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-2s"
+          "_anchor": "msg-box8-2v"
         },
         {
           "_inherit": "msg-box5",
@@ -1930,7 +1995,8 @@
               "color": "#fff"
             },
             "H3": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "30px"
             }
           },
           "_params": {
@@ -1939,8 +2005,8 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "55",
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1990,14 +2056,14 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<blockquote><p>&nbsp;Jest polską lekkoatletką, specjalistką biegów długodystansowych&nbsp;i wielokrotną mistrzyni Polski.&nbsp;</p><p><br></p><p>Pierwszy brązowy medal drużynowo zdobyła brązowy medal podczas mistrzostw świata w biegach przełajowych w 1975 w Rabacie.&nbsp;</p><p><br></p><p>Była mistrzynią Polski w biegu na 3000 metrów w 1976 oraz w maratonie w 1983, 1985 i 1986</p><p><br></p><p>Ustanawiała rekordy Polski w biegu na 3000 metrów (9:13,8 30 czerwca 1974 w Warszawie) i trzykrotnie w maratonie (do 2:32:30 6 kwietnia 1986 w Dębnie).</p><p><br></p><p>Jednym ze znancyh sportowców, którzy trenowali z Panią Renatą jest Andrzej Magier.</p><p><br></p><p>Jej wychowankami są medaliści mistrzostw Polski w różnych kategoriach wiekowych.</p></blockquote>",
+          "text": "<blockquote><p>Jest polską lekkoatletką, specjalistką biegów długodystansowych&nbsp;i wielokrotną mistrzyni Polski.&nbsp;</p><p>Pierwszy brązowy medal drużynowo zdobyła brązowy medal podczas mistrzostw świata w biegach przełajowych w 1975 w Rabacie.&nbsp;</p><p>Była mistrzynią Polski w biegu na 3000 metrów w 1976 oraz w maratonie w 1983, 1985 i 1986</p><p>Ustanawiała rekordy Polski w biegu na 3000 metrów (9:13,8 30 czerwca 1974 w Warszawie) i trzykrotnie w maratonie (do 2:32:30 6 kwietnia 1986 w Dębnie).</p><p>Jednym ze znancyh sportowców, którzy założyli LKS Doża Gdynia z Panią Renatą jest Andrzej Magier.</p><p>Jej wychowankami są medaliści mistrzostw Polski w różnych kategoriach wiekowych m.in. Magdalena i Julia Dias, Robert Sadowski, Łukasz Kujawski, Marcin Kowalski, Krzysztof Walczak, Karol Komuszyński i Syntia Ellhart.</p></blockquote>",
           "_tags": [
             "Motywy"
           ],
           "_name": "content2",
           "_styles": {
             "P": {
-              "font-size": "20px"
+              "font-size": "17px"
             }
           },
           "_anchor": "content2-2w"
@@ -2006,10 +2072,13 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
             }
           },
           "_params": {
-            "showMeta": true,
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fac51c"
@@ -2032,7 +2101,11 @@
               "border-color": "#ffffff"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            "H4": {
+              "font-size": "17px"
             }
           },
           "_params": {
@@ -2042,8 +2115,8 @@
             "ShowTexts": true,
             "showButtons": false,
             "iconsBgColor": "#ffffff",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2216,16 +2289,7 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-2r"
-        }
-      ]
-    },
-    "page8.html": {
-      "settings": {
-        "meta_descr": "Web Generator Description",
-        "title": "nasza kadra",
-        "order": 1
-      },
-      "components": [
+        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -2291,7 +2355,7 @@
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2312,25 +2376,37 @@
             "Motywy"
           ],
           "_name": "menu",
-          "_anchor": "menu-2z"
-        },
+          "_anchor": "menu-2x"
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "meta_descr": "Web Generator Description",
+        "title": "nasza kadra",
+        "order": 1
+      },
+      "components": [
         {
           "_styles": {
             ".mbr-section-title, .lead": {
               "color": "#fff"
             },
             ".lead P": {
-              "font-size": "32px"
+              "font-size": "17px"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/bieganie-po-asfalcie-e1528114853788-2-770x600.jpeg",
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpeg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#232323",
@@ -2349,7 +2425,7 @@
             "Motywy"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-34"
+          "_anchor": "msg-box8-2u"
         },
         {
           "_styles": {
@@ -2357,13 +2433,14 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#f2f2f2"
+              "color": "#f2f2f2",
+              "font-size": "30px"
             }
           },
           "_params": {
             "showMeta": false,
             "paddingTop": 1,
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgColor": "#000000"
           },
           "title": "Nasza Kadra Trenerska",
@@ -2455,13 +2532,13 @@
             }
           },
           "title1": "Szymon Gwardjak",
-          "subtitle1": "Triathlon",
+          "subtitle1": "Triathlon, biegi średnie i długie <br>i zajęcia z dziećmi",
           "caption1": "Ogólne informacje o sobie",
           "title2": "Damian Sławiński",
-          "subtitle2": "Biegi średnie i dlugie",
+          "subtitle2": "Biegi średnie i długie",
           "caption2": "Ogólne informacje o sobie",
           "title3": "Jarosław Ziółkowski",
-          "subtitle3": "Biegi ultra i zajecia z dziećmi<br>",
+          "subtitle3": "Biegi ultra i zajecia z dziećmi<br><br>",
           "caption3": "Ogólne informacje o sobie",
           "title4": "Imię Nazwisko",
           "subtitle4": "email\r<div>telefon</div>",
@@ -2484,11 +2561,12 @@
           "_name": "features3",
           "_styles": {
             "H4": {
-              "color": "#cccccc"
+              "color": "#cccccc",
+              "font-size": "17px"
             },
             "H5": {
               "color": "#c1c1c1",
-              "font-size": "19px"
+              "font-size": "17px"
             }
           },
           "_anchor": "features3-33"
@@ -2552,6 +2630,94 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-31"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#efefef"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#efefef"
+            },
+            ".link, .dropdown-item": {
+              "color": "#efefef"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0a0a0a"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#1b1b1b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#232323"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#efefef",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "A": {
+              "font-size": "12px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#232323",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#efefef",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Strona Główna</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page9.html\" aria-expanded=\"false\">Nasza Oferta</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page7.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Kadra Trenerska</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Renata Walendzak</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\" aria-expanded=\"false\">Nasza Kadra Trenerska</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Galeria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Kontakt<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">Zaloguj się<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page6.html\">ŚCIĄGNIJ APLIKACJE</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/78307572-539327776916618-78249267596770672647-n-1-133x128.jpeg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Wise Runnig System</a>",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2x"
         }
       ]
     }
