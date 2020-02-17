@@ -57,7 +57,7 @@ h6,
 .lead blockquote,
 .mbr-section-subtitle,
 .mbr-section-hero .mbr-section-lead,
-. .card-subtitle,
+.mbr-cards .card-subtitle,
 .mbr-testimonial .card-block {
   font-family: 'Lora', serif;
 }
@@ -1007,6 +1007,9 @@ section.form .container {
 #msg-box6-2o H3 {
   color: #000000;
   font-size: 30px;
+}
+#msg-box6-2o P {
+  color: #000000;
 }
 #content2-2w P {
   font-size: 17px;

@@ -734,8 +734,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 
   .mbr-section-nopadding {
     padding-top: 0;
-    padding-bottom: 0;
-	}
+    padding-bottom: 0; }
 
   .mbr-section-subtitle {
     margin-bottom: 0; }
@@ -819,7 +818,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   margin: 0;
   overflow: hidden;
   position: relative;
-  width: 70%; }
+  width: 100%; }
   .mbr-figure img, .mbr-figure iframe {
     display: block;
     width: 100%; }
