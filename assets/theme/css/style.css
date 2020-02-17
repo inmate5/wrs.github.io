@@ -1298,7 +1298,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 -------*/
 @media (min-width: 1600px) {
   .mbr-price-table {
-    padding-left: 12%;
+    padding-left: 20%;
     padding-right: 12%; } }
 .mbr-price-table .row {
   margin-left: 0;
