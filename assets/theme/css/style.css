@@ -818,7 +818,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   margin: 0;
   overflow: hidden;
   position: relative;
-  width: 100%; }
+  width: 75%; }
   .mbr-figure img, .mbr-figure iframe {
     display: block;
     width: 100%; }
