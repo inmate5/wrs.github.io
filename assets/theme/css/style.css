@@ -1306,7 +1306,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   margin-right: 0; }
   .mbr-price-table .row > div {
     padding-left: 10.625rem;
-    padding-right: 5.625rem; }
+    padding-right: 0.625rem; }
     @media (max-width: 1199px) {
       .mbr-price-table .row > div {
         padding-bottom: 40px; } }
