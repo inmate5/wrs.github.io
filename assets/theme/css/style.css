@@ -1252,6 +1252,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   border-radius: 0;
   width: auto;
   max-width: 80%; }
+  
 .mbr-cards .card-img + .card-block {
   padding-top: 2.3125rem; }
 .mbr-cards .card-text {
