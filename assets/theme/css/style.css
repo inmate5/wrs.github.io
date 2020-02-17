@@ -658,7 +658,8 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 
 .mbr-section__container--middle {
   padding-top: 0;
-  padding-bottom: 40px; }
+  padding-bottom: 40px;
+}
 
 .mbr-section__container--last {
   padding-top: 0;
@@ -1298,13 +1299,13 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 -------*/
 @media (min-width: 1600px) {
   .mbr-price-table {
-    padding-left: 20%;
+    padding-left: 12%;
     padding-right: 12%; } }
 .mbr-price-table .row {
   margin-left: 0;
   margin-right: 0; }
   .mbr-price-table .row > div {
-    padding-left: 0.625rem;
+    padding-left: 13.625rem;
     padding-right: 0.625rem; }
     @media (max-width: 1199px) {
       .mbr-price-table .row > div {
