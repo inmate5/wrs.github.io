@@ -658,8 +658,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 
 .mbr-section__container--middle {
   padding-top: 0;
-  padding-bottom: 40px;
-}
+  padding-bottom: 40px; }
 
 .mbr-section__container--last {
   padding-top: 0;
@@ -819,7 +818,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   margin: 0;
   overflow: hidden;
   position: relative;
-  width: 75%; }
+  width: 100%; }
   .mbr-figure img, .mbr-figure iframe {
     display: block;
     width: 100%; }
@@ -1251,8 +1250,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 .mbr-cards .card-img-top {
   border-radius: 0;
   width: auto;
-  max-width: 80%; }
-  
+  max-width: 100%; }
 .mbr-cards .card-img + .card-block {
   padding-top: 2.3125rem; }
 .mbr-cards .card-text {
@@ -1300,13 +1298,13 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 -------*/
 @media (min-width: 1600px) {
   .mbr-price-table {
-    padding-left: 0%;
-    padding-right: 0%; } }
+    padding-left: 12%;
+    padding-right: 12%; } }
 .mbr-price-table .row {
   margin-left: 0;
   margin-right: 0; }
   .mbr-price-table .row > div {
-    padding-left: 10%;
+    padding-left: 0.625rem;
     padding-right: 0.625rem; }
     @media (max-width: 1199px) {
       .mbr-price-table .row > div {
